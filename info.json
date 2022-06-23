@@ -1,0 +1,8 @@
+{
+    "name": "efficient-robots",
+    "version": "0.0.1",
+    "title": "Efficient Robots",
+    "author": "FMR",
+    "factorio_version": "1.1",
+    "description": "Improves energy consumption of both, logistic and construction, robots"
+  }
