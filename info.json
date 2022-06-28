@@ -1,8 +1,8 @@
 {
     "name": "efficient-robots",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "title": "Efficient Robots",
     "author": "FMR",
     "factorio_version": "1.1",
-    "description": "Improves energy consumption up to 80% of both, logistic and construction, robots."
+    "description": "Improves energy consumption of both, logistic and construction, robots.\nDefaults to 80% efficiency, twekable through mod settings."
   }
