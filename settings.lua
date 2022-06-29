@@ -1,7 +1,7 @@
 data:extend({{
     type = "double-setting",
     name = "efficient-robots-efficiency",
-    localised_name = "Robot efficiency [img=info]",
+    localised_name = "Robot efficiency",
     localised_description = "To get base game efficiency use 0",
     setting_type = "startup",
     minimum_value = 0,
